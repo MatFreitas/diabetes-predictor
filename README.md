@@ -1,4 +1,4 @@
-# Machine-Learnig-Project
+# Diabetes Predictor
 
 DataSet: https://www.kaggle.com/uciml/pima-indians-diabetes-database
 
